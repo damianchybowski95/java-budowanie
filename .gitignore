@@ -1,2 +1,5 @@
 .env
+target/
 testignore
+1. pure java/1. Base project structure/base_project_structure/src/main/resources/.env
+1. pure java/1. Base project structure/base_project_structure/target/classes/.env
